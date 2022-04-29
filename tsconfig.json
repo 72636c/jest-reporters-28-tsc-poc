@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2021"],
+    "module": "CommonJS",
+    "skipLibCheck": false,
+    "strict": true,
+    "target": "ES2021"
+  }
+}
